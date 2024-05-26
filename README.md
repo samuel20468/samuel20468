@@ -10,7 +10,7 @@ As a Backend Web Developer, I offer extensive experience in developing robust an
 ![Express.js](https://skillicons.dev/icons?i=express) ![Languages and Frameworks](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,javascript,typescript,nestjs,bootstrap) 
 
 ### 💽 ORMs and Databases:
-![ORMs and Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sequelize) ![TypeORM](https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png)
+![ORMs and Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sequelize)
 
 ### 📚 Libraries:
 ![Libraries](https://simpleskill.icons.workers.dev/svg?i=react,redux,swagger)
