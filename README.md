@@ -25,7 +25,7 @@ As a Backend Web Developer, I offer extensive experience in developing robust an
 ![Vercel,Netlify and Heroku](https://skillicons.dev/icons?i=vercel,netlify,heroku) ![Render](https://simpleskill.icons.workers.dev/svg?i=render)
 
 ### ⚙️ Development utilities:
-![Development utilities](https://simpleskill.icons.workers.dev/svg?i=docker,npm,nodemon,insomnia,postman,vscode)
+![Development utilities](https://simpleskill.icons.workers.dev/svg?i=docker,npm,nodemon,insomnia,postman,visualstudiocode)
 
 ### 🛠️ Project Management Tools:
 ![Github](https://skillicons.dev/icons?i=github) ![Project Management Tools](https://simpleskill.icons.workers.dev/svg?i=git,trello,jira)
