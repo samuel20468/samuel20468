@@ -13,7 +13,7 @@ As a Backend Web Developer, I offer extensive experience in developing robust an
 ![ORMs and Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sequelize)
 
 ### 📚 Libraries and others:
-![Libraries](https://simpleskill.icons.workers.dev/svg?i=react,redux,swagger,jsonwebtokens,dotenv,eslint,prettier)
+![Libraries](https://simpleskill.icons.workers.dev/svg?i=react,redux,swagger,jsonwebtokens)
 
 ### 🧪 Testers:
 ![Testers](https://simpleskill.icons.workers.dev/svg?i=jest,jasmine)
@@ -28,7 +28,7 @@ As a Backend Web Developer, I offer extensive experience in developing robust an
 ![Vercel,Netlify and Heroku](https://skillicons.dev/icons?i=vercel,netlify,heroku) ![Render](https://simpleskill.icons.workers.dev/svg?i=render)
 
 ### ⚙️ Development utilities:
-![Development utilities](https://simpleskill.icons.workers.dev/svg?i=docker,npm,nodemon,insomnia,postman,visualstudiocode)
+![Development utilities](https://simpleskill.icons.workers.dev/svg?i=docker,npm,nodemon,insomnia,postman,visualstudiocode,dotenv,eslint,prettier)
 
 ### 🛠️ Project Management Tools:
 ![Github](https://skillicons.dev/icons?i=github) ![Project Management Tools](https://simpleskill.icons.workers.dev/svg?i=git,trello,jira)
