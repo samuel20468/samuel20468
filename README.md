@@ -18,7 +18,7 @@ As a Backend Web Developer, I offer extensive experience in developing robust an
 ### 🧪 Testers:
 ![Testers](https://simpleskill.icons.workers.dev/svg?i=jest,jasmine)
 
-### ⚙️ Template engines:
+### 📝 Template engines:
 ![Template Engines](https://simpleskill.icons.workers.dev/svg?i=ejs)
 
 ### 🚀 Deployment Tools:
