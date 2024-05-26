@@ -3,7 +3,7 @@ As a Backend Web Developer, I offer extensive experience in developing robust an
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-rivera-cardona-backend-developer/) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samuel-rivera-cardona-backend-developer/) 
 
 # 💻 Tech Stack:
 ### 🔲 Languages and Frameworks: 
