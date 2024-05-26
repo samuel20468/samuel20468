@@ -7,7 +7,7 @@ As a Backend Web Developer, I offer extensive experience in developing robust an
 
 # 💻 Tech Stack:
 ### 🔲 Languages and Frameworks: 
-![Languages and Frameworks](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,javascript,typescript,nestjs,bootstrap)![Express.js](https://skillicons.dev/icons?i=express)
+![Languages and Frameworks](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,javascript,typescript,nestjs,bootstrap) ![Express.js](https://skillicons.dev/icons?i=express)
 
 ### 💽 ORMs and Databases:
 ![ORMs and Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sequelize)
