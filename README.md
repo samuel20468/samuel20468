@@ -19,7 +19,7 @@ As a Backend Web Developer, I offer extensive experience in developing robust an
 ![Testers](https://simpleskill.icons.workers.dev/svg?i=jest,jasmine)
 
 ### ☁️ Cloud Services:
-![AWS](https://simpleskill.icons.workers.dev/svg?i=aws)
+![AWS](https://simpleskill.icons.workers.dev/svg?i=amazonaws)
 
 ### 📝 Template engines:
 ![Template Engines](https://simpleskill.icons.workers.dev/svg?i=ejs)
