@@ -10,7 +10,7 @@ As a Full Stack Web Developer specialized in Backend , I offer extensive experie
 ![Express.js](https://skillicons.dev/icons?i=express) ![Languages and Frameworks](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,javascript,typescript,nestjs,bootstrap) 
 
 ### 💽 ORMs and Databases:
-![ORMs and Databases](https://skillicons.dev/icons?i=postgres,sqlite,mongodb,mysql,sequelize,prisma)![TypeOrm](https://simpleskill.icons.workers.dev/svg?i=typeorm)
+![ORMs and Databases](https://skillicons.dev/icons?i=postgres,sqlite,mongodb,mysql,sequelize,prisma) ![TypeOrm](https://simpleskill.icons.workers.dev/svg?i=typeorm)
 
 ### 📚 Libraries and others:
 ![Libraries](https://simpleskill.icons.workers.dev/svg?i=react,redux,swagger,jsonwebtokens)
