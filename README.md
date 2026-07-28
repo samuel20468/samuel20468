@@ -3,7 +3,7 @@ As a Full Stack Web Developer specialized in Backend , I offer extensive experie
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samuel-rivera-cardona-backend-developer/) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samuel-rivera-cardona-software-engineer/) 
 
 # 💻 Tech Stack:
 ### 🔲 Languages and Frameworks: 
