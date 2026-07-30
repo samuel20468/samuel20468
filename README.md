@@ -1,5 +1,11 @@
 # 👀 About Me:
-As a Full Stack Web Developer specialized in Backend , I offer extensive experience in developing robust and scalable applications using a modern and efficient technology stack. My specialization includes:<br><br>Languages and Frameworks: Proficient in TypeScript, JavaScript and Node.js, with deep experience in frameworks such as React.js, Express.js and Nest.js to build high-performance APIs, services and work with them in the Frontend.<br>ORMs: Skilled in using TypeORM, Sequelize, Prisma and Mongoose to facilitate data management and mapping between applications and databases, optimizing code efficiency and structure.<br>Databases: Solid experience with relational databases like PostgreSQL and MySQL, as well as NoSQL solutions like MongoDB, utilizing Mongoose for data modeling and management.<br>Containerization: Proficiency in Docker for creating consistent development environments and agile, reliable deployment of applications across multiple environments.<br>My focus is on solving complex problems and implementing innovative solutions that add value to organizations. I work effectively in multidisciplinary teams, promoting collaboration and efficiency in every project.<br><br>Additionally, I have a strong ability to adapt and a continuous learning mindset, allowing me to quickly integrate new technologies and methodologies according to project needs.
+I'm a Software Engineer with over 2 years of experience building backend systems using Node.js, TypeScript, and NestJS.
+
+I enjoy designing scalable APIs, working with microservices, and solving performance and architecture challenges. Most of my experience comes from developing SaaS products, where I've worked with MongoDB, PostgreSQL, Docker, and event-driven architectures.
+
+Beyond writing code, I like understanding the business behind the software and building solutions that are simple, maintainable, and reliable.
+
+I'm always learning, sharing ideas, and looking for better ways to build software.
 
 
 ## 🌐 Socials:
